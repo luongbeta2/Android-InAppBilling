@@ -1,47 +1,47 @@
-# Android-InAppBilling
+# Android-MonetizeApp
 
-<img src="https://github.com/LiteKite/Android-InAppBilling/blob/assets/assets/app_icon.png" alt="App Icon" />
+<img src="https://github.com/LiteKite/Android-MonetizeApp/blob/assets/assets/app_icon.png" alt="App Icon" />
 
 ##
 
 ### A sample which uses Google's Play Billing Library and it does InApp Purchases and Subscriptions.
 
-<a href="https://codeclimate.com/github/LiteKite/Android-InAppBilling/maintainability"><img src="https://api.codeclimate.com/v1/badges/9086ce3ec1082cb455fa/maintainability" /></a> ![build](https://github.com/LiteKite/Android-InAppBilling/workflows/build/badge.svg?branch=main)
+<a href="https://codeclimate.com/github/LiteKite/Android-MonetizeApp/maintainability"><img src="https://api.codeclimate.com/v1/badges/9086ce3ec1082cb455fa/maintainability" /></a> ![build](https://github.com/LiteKite/Android-MonetizeApp/workflows/build/badge.svg?branch=main)
 
 ##
 
 <div align="center">
-<img src="https://github.com/LiteKite/Android-InAppBilling/blob/assets/assets/screen_one.png" alt="App Screenshot One"/>
+<img src="https://github.com/LiteKite/Android-MonetizeApp/blob/assets/assets/screen_one.png" alt="App Screenshot One"/>
 </div>
 
 ##
 
 <div align="center">
-<img src="https://github.com/LiteKite/Android-InAppBilling/blob/assets/assets/screen_two.png" alt="App Screenshot Two"/>
+<img src="https://github.com/LiteKite/Android-MonetizeApp/blob/assets/assets/screen_two.png" alt="App Screenshot Two"/>
 </div>
 
 ##
 
 <div align="center">
-<img src="https://github.com/LiteKite/Android-InAppBilling/blob/assets/assets/screen_three.png" alt="App Screenshot Three"/>
+<img src="https://github.com/LiteKite/Android-MonetizeApp/blob/assets/assets/screen_three.png" alt="App Screenshot Three"/>
 </div>
 
 ##
 
 <div align="center">
-<img src="https://github.com/LiteKite/Android-InAppBilling/blob/assets/assets/screen_four.png" alt="App Screenshot Four"/>
+<img src="https://github.com/LiteKite/Android-MonetizeApp/blob/assets/assets/screen_four.png" alt="App Screenshot Four"/>
 </div>
 
 ##
 
 <div align="center">
-<img src="https://github.com/LiteKite/Android-InAppBilling/blob/assets/assets/screen_five.png" alt="App Screenshot Five"/>
+<img src="https://github.com/LiteKite/Android-MonetizeApp/blob/assets/assets/screen_five.png" alt="App Screenshot Five"/>
 </div>
 
 ##
 
 <div align="center">
-<img src="https://github.com/LiteKite/Android-InAppBilling/blob/assets/assets/screen_six.png" alt="App Screenshot Six"/>
+<img src="https://github.com/LiteKite/Android-MonetizeApp/blob/assets/assets/screen_six.png" alt="App Screenshot Six"/>
 </div>
 
 ## Getting Started
@@ -70,9 +70,13 @@
 
 `Hilt DI` -> Dependency Injection Library for Android.</br>
 
+`App Startup` -> Initializes dependencies during app startup.</br>
+
+`Spotless` -> A Code Formatter that uses Google AOSP Java format.</br>
+
 ## References
 
-[Google's Trivial Drive Sample](https://github.com/googlesamples/android-play-billing/tree/master/TrivialDrive_v2) -> A Sample provided by Google for implementing In-app purchases.
+[Google's Play Billing Sample](https://github.com/android/play-billing-samples) -> A Sample provided by Google for implementing In-app purchases.
 
 [Google Play Library Training](https://developer.android.com/training/play-billing-library/index.html) -> A Google Play Billing Library Usage Documentation.
 
@@ -85,7 +89,7 @@
 ## Support
 
 If you've found an error in this sample, please file an issue:
-https://github.com/LiteKite/Android-InAppBilling/issues
+https://github.com/LiteKite/Android-MonetizeApp/issues
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub.
@@ -103,7 +107,7 @@ You may obtain a copy of the License at
     http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, 
+distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
